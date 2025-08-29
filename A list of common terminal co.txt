@@ -1,0 +1,106 @@
+Here’s a list of common terminal command 
+
+File & Directory Navigation
+
+pwd → Show current working directory
+
+ls → List files and directories
+
+ls -l → Detailed list
+
+ls -a → Show hidden files
+
+
+cd <directory> → Change directory
+
+cd .. → Go back one directory
+
+cd ~ → Go to home directory
+
+
+ File & Directory Management
+
+touch <filename> → Create an empty file
+
+cat <filename> → View file contents
+
+nano <filename> / vim <filename> → Edit file
+
+cp <source> <destination> → Copy file or folder
+
+mv <source> <destination> → Move/rename file or folder
+
+rm <filename> → Delete file
+
+rm -r <directory> → Delete folder (recursive)
+
+mkdir <directory> → Create new directory
+
+rmdir <directory> → Remove empty directory
+
+
+
+ System Information
+
+whoami → Show logged-in user
+
+uname -a → Show system information
+
+date → Show current date & time
+
+uptime → Show system uptime
+
+df -h → Show disk space usage
+
+free -h → Show memory usage
+
+
+ Process Management
+
+ps → Show running processes
+
+top / htop → Monitor system processes (like Task Manager)
+
+kill <PID> → Kill process with given ID
+
+killall <process_name> → Kill all processes by name
+
+
+ Search & Find
+
+find <path> -name <filename> → Search for file
+
+grep "<text>" <filename> → Search text inside a file
+
+history → Show command history
+
+
+ Permissions
+
+chmod <permissions> <file> → Change file permissions
+
+chown <user>:<group> <file> → Change file ownership
+
+
+
+ Networking
+
+ping <host> → Check network connectivity
+
+curl <url> → Fetch data from URL
+
+wget <url> → Download file from URL
+
+ifconfig / ip addr → Show network info
+
+
+
+ Package Management (Linux only)
+
+apt-get update → Update package list (Debian/Ubuntu)
+
+apt-get install <package> → Install package
+
+yum install <package> → Install package (CentOS/RedHat)
+
+

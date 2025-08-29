@@ -1,0 +1,138 @@
+ Computer Basics – Detailed Notes
+
+1. Introduction of Computer
+
+A computer is an electronic device.
+
+It accepts data (input), processes it using instructions, stores it if required, and provides the final result (output).
+
+Computers are very fast, accurate, and can handle a large amount of data.
+
+They work only with the help of hardware and software.
+
+
+2. Basic Definition of Computer
+
+A computer can be defined as:
+
+Computer = Input + Processing + Output + Storage
+
+Example:
+
+You type numbers (input) → computer calculates (processing) → shows the result on the screen (output) → you can save it in a file (storage).
+
+
+3. Main Functions of a Computer
+
+1. Input Function → Receiving data and instructions from input devices like keyboard, mouse, scanner, etc.
+
+
+2. Processing Function → The CPU (Central Processing Unit) processes the data with the help of instructions (software).
+
+
+3. Output Function → After processing, the result is displayed through output devices like monitor, printer, or speaker.
+
+
+4. Storage Function → Data and results can be stored permanently or temporarily for future use.
+
+
+4. Parts of Computer Functions
+
+4.1 Hardware
+
+The physical components of the computer which we can touch.
+
+Examples: CPU, monitor, keyboard, mouse, printer, hard disk.
+
+
+4.2 Software
+
+The set of programs and instructions which tell the computer how to work.
+
+Software cannot be touched, only seen or used.
+
+Examples: Operating System (Windows, Linux), Application Software (MS Word, Excel, browsers).
+
+
+4.3 Difference between Hardware and Software
+
+  Hardware	                             Software
+
+Physical parts of computer	        Programs and instructions
+Can be touched	Cannot be touched
+Without software, hardware is useless	Without hardware, software cannot work
+Examples: Keyboard, monitor, CPU	Examples: MS Word, Windows, Photoshop
+
+
+5. Input and Output Devices
+
+5.1 Input Devices
+
+Devices used to give data and instructions to the computer.
+
+Examples:
+
+Keyboard → for typing
+
+Mouse → for pointing and clicking
+
+Scanner → for scanning documents
+
+Microphone → for voice input
+
+
+
+5.2 Output Devices
+
+Devices used to show results after processing.
+
+Examples:
+
+Monitor → displays text, images, videos
+
+Printer → prints documents
+
+Speakers → give sound output
+
+
+
+5.3 Difference between Input and Output Devices
+
+Input Devices	                         Output Devices
+
+Used to send data into the computer	Used to give result out of the computer
+Examples: Keyboard, mouse, scanner	Examples: Monitor, printer, speaker
+
+
+6. Memory in Computer
+
+6.1 Primary Memory (Main Memory)
+
+Directly accessed by the CPU.
+
+Very fast but limited in size.
+
+Two main types:
+
+RAM (Random Access Memory) → Temporary memory, data is lost when power is off.
+
+ROM (Read Only Memory) → Permanent memory, stores important instructions for starting the computer.
+
+
+
+6.2 Secondary Memory (Storage)
+
+Used for long-term storage of data.
+
+Larger in size but slower than primary memory.
+
+Examples: Hard disk, SSD, Pen drive, CD/DVD.
+
+
+6.3 Difference between Primary and Secondary Memory
+
+Primary Memory	Secondary Memory
+
+Fast and directly used by CPU	Slower and used for permanent storage
+Small in size	Large in size
+Examples: RAM, ROM	Examples: Hard disk, SSD, CD

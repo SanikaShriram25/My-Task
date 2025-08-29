@@ -1,0 +1,12 @@
+# Why We Use the Terminal in Linux
+
+The terminal in Linux is used because it gives a simple and powerful way to interact with the system.
+
+- It is faster and more efficient than using menus.  
+- Gives more control over the system.  
+- Helps automate tasks using shell scripts.  
+- Uses very little system resources (lightweight).  
+- Allows remote access to other machines with ssh.  
+- Commands can be combined for flexible use.  
+- Useful for learning and solving problems since most guides use commands.  
+
